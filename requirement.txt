@@ -1,4 +1,4 @@
 pydub
 ffmpeg
-yt_dlp
+yt-dlp
 os
