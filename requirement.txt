@@ -1,0 +1,4 @@
+pydub
+ffmpeg
+yt_dlp
+os
