@@ -1,5 +1,5 @@
 
-import yt_dlp
+import yt-dlp
 import os
 
 def download_playlist_mp3():
