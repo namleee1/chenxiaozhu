@@ -1,6 +1,6 @@
 pydub
 ffmpeg
-yt-dlp
+yt_dlp
 os
 imageio_ffmpeg
 google-api-python-client
