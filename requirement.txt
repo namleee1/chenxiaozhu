@@ -2,3 +2,6 @@ pydub
 ffmpeg
 yt-dlp
 os
+imageio_ffmpeg
+google-api-python-client
+streamlit
