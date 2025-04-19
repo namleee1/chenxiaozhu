@@ -6,7 +6,7 @@
 
 import streamlit as st
 import os
-from yt-dlp import YoutubeDL
+from yt_dlp import YoutubeDL
 from googleapiclient.discovery import build
 import imageio_ffmpeg
 
