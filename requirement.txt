@@ -1,9 +1,6 @@
 pydub
-ffmpeg
-os
 imageio_ffmpeg
 streamlit
 yt-dlp
 google-api-python-client
 requests
-yt_dlp
